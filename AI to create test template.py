@@ -29,8 +29,8 @@ pip install openai==0.28
 
 
 import openai
-openai.api_key = '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'
-
+openai.api_key = '...'
+#Replace with your API key
 
 # In[ ]:
 
